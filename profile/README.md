@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-#### 🙋 Welcome to the NullZee Github!
+#### 🙋 Welcome to the Nullzee Github!
